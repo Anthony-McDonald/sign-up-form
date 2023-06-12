@@ -13,6 +13,10 @@ h3, h5, div {
     font-family: var(--else-font);
 }
 
+h1 {
+    font-family: var(--logo-font);
+}
+
 .container {
     display: flex;
     justify-content: space-around;
