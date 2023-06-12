@@ -1,11 +1,16 @@
 :root {
     --test-border: 1px solid red;
     --logo-font: 'Codystar', cursive;
+    --else-font: 'Roboto Mono', monospace;
 }
 
 .container, html, body {
     height: 100%;
     margin: 0;
+}
+
+h3, h5, div {
+    font-family: var(--else-font);
 }
 
 .container {
