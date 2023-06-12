@@ -20,7 +20,7 @@ h3, h5, div {
 }
 
 .leftmain {
-    background-image: url(/imgs/carinaNebula.jpeg);
+    background-image: url(imgs/carinaNebula.jpeg);
     flex: 0.7;
     display: flex;
     flex-direction: column;
